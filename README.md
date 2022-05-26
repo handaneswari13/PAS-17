@@ -1,2 +1,2 @@
 # PAS-17
-program ini berupa hotel management yang memiliki dua mode yaitu admin dan user. Di dalam program terdapat beberapa fitur yaitu booking, cancel booking, check in, check out. 
+program ini berupa hotel management yang memiliki dua mode yaitu admin dan customer. Di dalam program terdapat beberapa fitur yaitu booking, cancel booking, check in, check out. Jika memilih customer maka kita dapat melakukan booking dengan memilih beberapa pilihan yang telah disediakan program seperti tanggal check in, check out, tipe kamar, dan paket yang diinginkan. Semua data yang dimasukkan user akan disimpan ke dalam file .csv. Jika kita memilih admin maka kita dapat melihat data yang ada di dalam file .csv. selain itu kita jug adapat melakukan check in dah check out
